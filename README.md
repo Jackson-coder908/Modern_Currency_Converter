@@ -13,3 +13,6 @@ A sleek, lightweight, and user-friendly Currency Converter built with Python. Th
 2. Clone this repository:
    ```bash
    git clone [https://github.com/Jackson-coder908/Modern_Currency_Converter.git](https://github.com/Jackson-coder908/Modern_Currency_Converter.git)
+3. cd Modern_Currency_Converter
+4. Run the application
+   bash
